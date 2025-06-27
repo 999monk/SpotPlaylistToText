@@ -1,0 +1,16 @@
+﻿# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Build results
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+
+# Visual Studio
+.vs/
